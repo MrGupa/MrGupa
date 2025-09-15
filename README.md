@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gaurav  
 
 🎓 4th-Year Computer Engineering Student @ **Mumbai University**  
-💡 Passionate about building impactful projects, exploring **AI/ML**, **Cybersecurity**, and **Full-Stack Development**.  
+💡 Passionate about building impactful projects, exploring **AI/ML**, **Cybersecurity**.  
 🎮 In my free time, I play various games(Minecraft, Valorant, Overwatch, and more).  
 
 ---
