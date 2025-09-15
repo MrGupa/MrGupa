@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav  
 
-<!--
-**MrGupa/MrGupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-Year Computer Engineering Student @ **Mumbai University**  
+💡 Passionate about building impactful projects, exploring **AI/ML**, **Cybersecurity**, and **Full-Stack Development**.  
+🎮 In my free time, I create gaming content on YouTube (Minecraft, Valorant, Overwatch, and more).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+
+---
+
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+---
+
+## 🚀 Projects  
+
+- 📦 **Distributor Logistics Tracking App** – Digitalized deliveries, payments & automated reports  
+- 🔗 **Code-Sync** – A cloud-based real-time **code sharing & debugging platform** ([Repo](https://github.com/sahilatahar/Code-Sync))  
+- 📑 **Exam Paper Generator (ML/NLP)** – Automated model question paper generation using past papers  
+- 🔐 **Secure Notes (Steganography + Encryption)** – Ongoing final-year project idea  
+- 🎮 **Gaming YouTube Channel** – Content on Minecraft, Valorant, Overwatch, Apex Legends, and Ark  
+
+---
+
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=Gaurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav&theme=dark&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+---
+
+### ✨ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gaurav&icon=2&color=0)](https://visitcount.itsvg.in)
