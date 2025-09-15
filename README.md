@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Gaurav  
 
-🎓 3rd-Year Computer Engineering Student @ **Mumbai University**  
+🎓 4th-Year Computer Engineering Student @ **Mumbai University**  
 💡 Passionate about building impactful projects, exploring **AI/ML**, **Cybersecurity**, and **Full-Stack Development**.  
-🎮 In my free time, I create gaming content on YouTube (Minecraft, Valorant, Overwatch, and more).  
+🎮 In my free time, I play various games(Minecraft, Valorant, Overwatch, and more).  
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/gaurav-patil-a9947b319/))  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrGupa)  
 
 ---
 
@@ -30,10 +30,8 @@
 ## 🚀 Projects  
 
 - 📦 **Distributor Logistics Tracking App** – Digitalized deliveries, payments & automated reports  
-- 🔗 **Code-Sync** – A cloud-based real-time **code sharing & debugging platform** ([Repo](https://github.com/sahilatahar/Code-Sync))  
-- 📑 **Exam Paper Generator (ML/NLP)** – Automated model question paper generation using past papers  
-- 🔐 **Secure Notes (Steganography + Encryption)** – Ongoing final-year project idea  
-- 🎮 **Gaming YouTube Channel** – Content on Minecraft, Valorant, Overwatch, Apex Legends, and Ark  
+- 🔗 **Code-Sync** – A cloud-based real-time **code sharing & debugging platform** ([Repo]())  
+- 📑 **Exam Paper Generator (ML/NLP)** – Automated model question paper generation using past papers    
 
 ---
 
